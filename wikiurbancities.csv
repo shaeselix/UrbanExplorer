@@ -1,0 +1,498 @@
+2015_Rank,2014_Rank,City,Country,Population,Area_km2,Density_km2,Sources_of_Pop__Area,Search,Latitude,Longitude
+1,1,Tokyo–Yokohama (Keihin),Japan,37843000,8547,4400,C / B,"Tokyo, Japan",34.2255804,139.294774527387
+2,2,Jakarta (Jabodetabek),Indonesia,30539000,3225,9500,C / B,"Jakarta, Indonesia",-6.1753941,106.8271826
+3,4,Delhi,India,24998000,2072,12100,A / B,"Delhi, India",28.6572914,77.2272603
+4,6,Manila (Metro Manila),Philippines,24123000,1580,15300,C / B,"Manila, Philippines",14.5906216,120.9799696
+5,3,Seoul–Gyeonggi–Incheon (Sudogwon),South Korea,23480000,2266,10400,C / B,"Seoul, South Korea",37.5666791,126.9782914
+6,5,Shanghai,China,23416000,3280,6100,L / B,"Shanghai, China",31.2253441,121.4888922
+7,7,Karachi,Pakistan,24000000,3527,23400,C / B,"Karachi, Pakistan",24.8667795,67.0311286
+8,11,Beijing,China,21009000,3820,5500,L / B,"Beijing, China",39.9059631,116.391248
+9,8,New York City,United States,20630000,11642,1800,N / N,"New York City, United States",40.7305991,-73.9865811
+10,12,Guangzhou–Foshan (Guangfo),China,20597000,3432,6000,C / B,"Guangzhou, China",23.1300037,113.259001
+11,9,São Paulo,Brazil,20365000,2707,7500,C / B,"São Paulo, Brazil",-23.5506506,-46.6333823
+12,10,Mexico City (Valley of Mexico),Mexico,20063000,2072,9700,C / B,"Mexico City, Mexico",19.4325301,-99.1332101
+13,13,Mumbai ,India,17712000,546,32400,C / B,"Mumbai , India",18.9523804,72.8327112
+14,14,Osaka–Kobe–Kyoto (Keihanshin),Japan,17444000,3212,5400,C / B,"Osaka, Japan",34.704365,135.501887
+15,15,Moscow,Russia,16170000,4662,3500,C / B,"Moscow, Russia",55.7516335,37.6187042
+16,21,Dhaka,Bangladesh,15669000,360,43500,C / B,"Dhaka, Bangladesh",23.7593572,90.3788136
+17,16,Greater Cairo,Egypt,15600000,1761,8900,C / B,"Greater Cairo, Egypt",30.06618545,31.22281335
+18,17,Los Angeles,United States,15058000,6299,2400,N / N,"Los Angeles, United States",34.0543942,-118.2439408
+19,20,Bangkok,Thailand,14998000,2590,5800,C / B,"Bangkok, Thailand",13.5859219,100.416086601645
+20,19,Kolkata,India,14667000,1204,12200,A / B,"Kolkata, India",22.568746,88.3462999
+21,22,Buenos Aires,Argentina,14122000,2681,5300,C / B,"Buenos Aires, Argentina",-34.6143904,-58.4460878
+23,22,Tehran,Iran,13532000,1489,9100,C / B,"Tehran, Iran",35.686172,51.4223519
+23,23,Istanbul,Turkey,13287000,1360,9800,C / B,"Istanbul, Turkey",41.0096334,28.9651646
+24,15,Lagos,Nigeria,13123000,907,14500,D / B,"Lagos, Nigeria",6.4550575,3.3941795
+25,24,Shenzhen,China,12084000,1748,6900,C / B,"Shenzhen, China",22.5442673,114.0545327
+26,26,Rio de Janeiro,Brazil,11727000,2020,5800,C / B,"Rio de Janeiro, Brazil",-22.9110136,-43.2093726
+27,31,Kinshasa,Democratic Republic of the Congo,11587000,583,19900,D / B,"Kinshasa, Democratic Republic of the Congo",-4.3217054,15.3125974
+28,32,Tianjin,China,10920000,2007,5400,F / B,"Tianjin, China",39.1235635,117.1980785
+29,27,Paris,France,10858000,2845,3800,A / A,"Paris, France",48.8564915,2.3521562
+30,30,Lima,Peru,10750000,919,11700,C / B,"Lima, Peru",-11.9999999,-76.8333329
+31,39,Chengdu,China,10376000,1541,6700,C / B,"Chengdu, China",30.6765553,104.0612783
+32,29,London,United Kingdom,10236000,1738,5900,A / A,"London, United Kingdom",51.5073219,-0.1276473
+33,28,Nagoya (Ch?ky?),Japan,10177000,3885,2600,C / B,"Nagoya, Japan",35.15792,136.90448
+34,42,Lahore,Pakistan,10052000,790,12700,F / B,"Lahore, Pakistan",31.5621916,74.3228517
+35,35,Bengaluru,India,9807000,1166,8400,A / B,"Bengaluru, India",12.9791198,77.5912997
+36,33,Chennai,India,9714000,971,10000,A / B,"Chennai, India",13.0796914,80.2829533
+37,34,Chicago,United States,9156000,6856,1300,N / N,"Chicago, United States",41.8755546,-87.6244211
+38,36,Bogotá,Colombia,8991000,492,18300,C / B,"Bogotá, Colombia",4.5980478,-74.0760866
+39,37,Ho Chi Minh City (Saigon),Vietnam,8957000,1489,6000,C / B,"Ho Chi Minh City, Vietnam",10.7758439,106.7017555
+40,41,Hyderabad,India,8754000,1230,7100,A / B,"Hyderabad, India",17.3616227,78.4747305
+41,38,Dongguan,China,8442000,1619,5200,C / B,"Dongguan, China",23.0449275,113.7524781
+42,43,Johannesburg–East Rand,South Africa,8432000,2590,3300,C / B,"Johannesburg, South Africa",-26.2049999,28.0497222
+43,44,Wuhan,China,7509000,1166,6400,L / B,"Wuhan, China",30.5960213,114.2992796
+44,40,Taipei,Taiwan,7438000,1140,6500,C / B,"Taipei, Taiwan",25.0375167,121.5637
+45,50,Hangzhou,China,7275000,1217,6000,C / B,"Hangzhou, China",30.2756741,120.1504858
+46,46,Hong Kong,China,7246000,275,26400,C / B,"Hong Kong, China",22.2793278,114.1628131
+47,48,Chongqing,China,7217000,932,7700,C / B,"Chongqing, China",29.5585712,106.5492822
+48,47,Ahmedabad,India,7186000,350,20600,A / B,"Ahmedabad, India",23.0216238,72.5797068
+49,49,Kuala Lumpur (Klang Valley),Malaysia,7088000,1943,3600,C / B,"Kuala Lumpur, Malaysia",3.1387103,101.682099528432
+50,57,Quanzhou,China,6710000,1529,4400,C / B,"Quanzhou, China",25.22314005,118.149366456272
+51,45,Essen–Düsseldorf (Ruhr Area),Germany,6679000,2655,2500,C / B,"Essen, Germany",51.4570874,7.0114295
+52,51,Baghdad,Iraq,6625000,673,9800,D / B,"Baghdad, Iraq",33.3024248,44.3787992
+53,52,Toronto,Canada,6456000,2287,2800,N / N,"Toronto, Canada",43.6529206,-79.3849007
+54,53,Santiago,Chile,6225000,984,6300,C / B,"Santiago, Chile",-33.4377967,-70.650445
+55,55,Dallas–Fort Worth,United States,6174000,5175,1200,N / N,"Dallas, United States",32.7762719,-96.7968558
+56,54,Madrid,Spain,6171000,1321,4700,C / B,"Madrid, Spain",40.4167047,-3.7035824
+57,59,Nanjing,China,6155000,1269,4800,L / B,"Nanjing, China",32.0609736,118.7916458
+58,60,Shenyang,China,6078000,1010,6000,C / B,"Shenyang, China",41.8045293,123.4277858
+59,65,Xi'an–Xianyang,China,5977000,932,6400,C / B,"Xi'an, China",34.2191582,109.110194631497
+60,56,San Francisco–San Jose,United States,5929000,2797,2100,N / N,"San Francisco, United States",37.7792768,-122.4192703
+61,64,Luanda,Angola,5899000,894,6600,C / B,"Luanda, Angola",-8.8271655,13.2436665
+62,85,Qingdao–Jimo,China,5816000,1489,3900,C / B,"Qingdao, China",36.0895093,120.3497193
+63,63,Houston,United States,5764000,4644,1200,N / N,"Houston, United States",29.7589382,-95.3676973
+63,58,Miami,United States,5764000,3209,1800,A / A,"Miami, United States",25.7742658,-80.1936588
+65,74,Bandung,Indonesia,5695000,466,12200,C / B,"Bandung, Indonesia",-6.9344693,107.6049539
+66,69,Riyadh,Saudi Arabia,5666000,1502,3800,C / B,"Riyadh, Saudi Arabia",24.6319692,46.7150648
+67,67,Pune,India,5631000,479,11800,A / B,"Pune, India",18.64395815,73.9325681901252
+68,66,Singapore,Singapore,5624000,518,10900,A / B,"Singapore, Singapore",1.2904527,103.852038
+69,62,Philadelphia,United States,5570000,5131,1100,A / A,"Philadelphia, United States",39.9523993,-75.1635898
+70,73,Surat,India,5447000,233,23400,A / B,"Surat, India",21.1864607,72.8081281
+71,68,Milan,Italy,5257000,1891,2800,C / B,"Milan, Italy",45.4667971,9.1904984
+72,86,Suzhou,China,5246000,1127,4700,C / B,"Suzhou, China",31.2984758,120.622239
+73,71,Saint Petersburg,Russia,5126000,1347,3800,C / B,"Saint Petersburg, Russia",59.9393657,30.3153628
+74,70,Khartoum,Sudan,5125000,932,5500,D / B,"Khartoum, Sudan",15.5933247,32.5356502
+75,75,Atlanta,United States,5015000,6851,700,A / A,"Atlanta, United States",33.7490987,-84.3901848
+76,89,Zhengzhou–Xingyang,China,4942000,829,6000,C / B,"Zhengzhou, China",34.7591877,113.6524076
+77,72,Washington D.C.,United States,4889000,3424,1400,A / A,"Washington, United States",38.8949549,-77.0366455
+78,76,Surabaya,Indonesia,4881000,673,7200,C / B,"Surabaya, Indonesia",-7.2459716,112.7378266
+79,82,Harbin,China,4815000,570,8500,C / B,"Harbin, China",45.7656666,126.6160584
+80,79,Abidjan,Ivory Coast,4800000,324,14800,D / B,"Abidjan, Ivory Coast",5.4091179,-4.0422098
+80,77,Yangon (Rangoon),Myanmar,4800000,544,8800,D / B,"Yangon, Myanmar",14.0879203,93.3051438731229
+82,84,Nairobi,Kenya,4738000,557,8500,C / B,"Nairobi, Kenya",-1.2832532,36.8172449
+83,78,Barcelona,Spain,4693000,1075,4400,C / B,"Barcelona, Spain",41.3825596,2.1771353
+84,79,Alexandria,Egypt,4689000,293,16000,C / B,"Alexandria, Egypt",31.1990035,29.8943785
+85,113,Kabul,Afghanistan,4635000,259,17900,D / B,"Kabul, Afghanistan",34.5197058,69.1624302
+86,81,Guadalajara,Mexico,4603000,751,6100,C / B,"Guadalajara, Mexico",20.676143,-103.3469981
+87,87,Ankara,Turkey,4538000,660,6900,C / B,"Ankara, Turkey",39.9220794,32.853758
+88,61,Belo Horizonte,Brazil,4517000,1088,4200,C / B,"Belo Horizonte, Brazil",-19.9227317,-43.9450947
+89,83,Boston,United States,4478000,5325,800,N / N,"Boston, United States",42.3604823,-71.0595677
+90,120,Xiamen,China,4420000,583,7600,C / B,"Xiamen, China",24.497442,118.1355644
+91,96,Kuwait City,Kuwait,4283000,712,6000,C / B,"Kuwait City, Kuwait",29.3797091,47.9735629
+92,104,Dar es Salaam,Tanzania,4219000,570,7400,C / B,"Dar es Salaam, Tanzania",-6.8142736,39.2803756
+93,91,Phoenix,United States,4194000,3196,1300,N / N,"Phoenix, United States",33.4485866,-112.0773455
+94,98,Dalian,China,4183000,777,5400,C / B,"Dalian, China",38.920716,121.6388678
+95,95,Accra,Ghana,4145000,971,4300,C / B,"Accra, Ghana",5.5600141,-0.2057436
+96,88,Monterrey,Mexico,4083000,894,4600,C / B,"Monterrey, Mexico",25.6764922,-100.3060828
+97,93,Berlin,Germany,4069000,1347,3000,C / B,"Berlin, Germany",52.5170365,13.3888599
+98,93,Sydney,Australia,4036000,2037,2000,A / A,"Sydney, Australia",-33.8548156,151.2164539
+99,107,Fuzhou,China,3962000,440,9000,C / B,"Fuzhou, China",26.0771539,119.2914774
+100,196,Medan,Indonesia,3942000,479,8200,C / B,"Medan, Indonesia",3.5896654,98.6738261
+101,122,Dubai,United Arab Emirates,3933000,1347,2900,C / B,"Dubai, United Arab Emirates",25.2683521,55.2961962
+102,100,Melbourne,Australia,3906000,2543,1500,A / A,"Melbourne, Australia",-37.8142175,144.9631608
+102,97,Rome,Italy,3906000,1114,3500,C / B,"Rome, Italy",41.8935085,12.4825526
+102,121,Busan,South Korea,3906000,401,9700,C / B,"Busan, South Korea",35.1853168,129.0625899
+105,108,Cape Town,South Africa,3812000,816,4700,C / B,"Cape Town, South Africa",-33.9289048,18.4172485
+106,112,Jinan,China,3789000,725,5200,C / B,"Jinan, China",36.646804,117.0141223
+107,123,Ningbo,China,3753000,738,5100,C / B,"Ningbo, China",29.8720259,121.549887
+108,169,Hanoi,Vietnam,3715000,466,8000,C / B,"Hanoi, Vietnam",21.0292095,105.85247
+109,103,Naples,Italy,3706000,1023,3600,C / B,"Naples, Italy",40.8359336,14.2487826
+110,109,Taiyuan—Yuci,China,3702000,518,7100,C / B,"Taiyuan, China",37.934582,112.1591869186
+111,118,Jeddah,Saudi Arabia,3677000,842,4400,C / B,"Jeddah, Saudi Arabia",21.5822247,39.1640396
+112,101,Detroit,United States,3672000,3463,1100,A / A,"Detroit, United States",42.3486635,-83.0567374
+113,110,Hefei,China,3665000,725,5100,C / B,"Hefei, China",31.8228094,117.2218033
+114,128,Changsha,China,3657000,622,5900,C / B,"Changsha, China",28.1873765,112.9835823
+115,118,Kunming–Anning,China,3649000,712,5100,C / B,"Kunming, China",25.0515153,102.7017638
+116,116,Wuxi,China,3597000,738,4900,C / B,"Wuxi, China",31.5756347,120.2954534
+117,102,Medellín,Colombia,3568000,228,15700,C / B,"Medellín, Colombia",6.2443382,-75.5735529
+118,132,Faisalabad,Pakistan,3560000,181,19600,D / B,"Faisalabad, Pakistan",31.4220558,73.0923253
+118,126,Aleppo,Syria,3560000,259,13700,D / B,"Aleppo, Syria",36.197971,37.1656697
+120,105,Kano,Nigeria,3550000,251,14100,D / B,"Kano, Nigeria",11.9918671,8.5303654
+121,115,Montreal,Canada,3407963,1545,2206,A / A,"Montreal, Canada",45.5087928,-73.5539819
+122,125,Dakar,Senegal,3520000,194,18100,D / B,"Dakar, Senegal",14.6934248,-17.4479376
+123,111,Athens,Greece,3484000,583,6000,C / B,"Athens, Greece",37.9841493,23.7279843
+124,147,Changzhou,China,3425000,829,4100,C / B,"Changzhou, China",31.7895377,119.9387608
+125,114,Durban (eThekwini),South Africa,3421000,1062,3200,C / B,"Durban, South Africa",-29.8618253,31.0099095
+126,92,Porto Alegre,Brazil,3413000,803,4300,C / B,"Porto Alegre, Brazil",-30.0282657,-51.2284269
+127,131,Jaipur,India,3409000,414,8200,A / B,"Jaipur, India",26.9161293,75.8204056
+128,105,Fortaleza,Brazil,3401000,518,6600,C / B,"Fortaleza, Brazil",-3.7304511,-38.5217988
+129,129,Addis Ababa,Ethiopia,3376000,440,7700,C / B,"Addis Ababa, Ethiopia",9.0107934,38.7612525
+130,130,Changchun,China,3368000,531,6300,C / B,"Changchun, China",43.8144046,125.3169424
+131,141,Shijiazhuang,China,3367000,518,6500,C / B,"Shijiazhuang, China",38.10071215,114.600869096993
+132,98,Recife,Brazil,3347000,414,8100,C / B,"Recife, Brazil",-8.064193,-34.8781516
+133,137,Mashhad,Iran,3294000,298,11100,C / B,"Mashhad, Iran",36.2974945,59.6059232
+134,133,Seattle,United States,3218000,2616,1200,A / A,"Seattle, United States",47.6038321,-122.3300623
+135,136,Casablanca,Morocco,3211000,272,11800,C / B,"Casablanca, Morocco",33.5939157,-7.6176292
+136,90,Salvador,Brazil,3190000,350,9100,C / B,"Salvador, Brazil",-12.9822498,-38.4812771
+137,149,Ürümqi,China,3184000,492,6500,C / B,"Ürümqi, China",43.9596545,87.6440096569576
+137,144,Lucknow,India,3184000,324,9800,A / B,"Lucknow, India",26.834512,80.9080181406892
+139,138,Chittagong,Bangladesh,3176000,111,28500,C / B,"Chittagong, Bangladesh",22.4237755,91.7236738793288
+140,151,Wenzhou,China,3169000,324,9800,C / B,"Wenzhou, China",28.0221989,120.648392
+141,133,Ibadan,Nigeria,3160000,466,6800,D / B,"Ibadan, Nigeria",7.3786064,3.8969928
+142,148,?zmir,Turkey,3112000,298,10400,C / B,"?zmir, Turkey",38.4153421,27.144474
+143,127,Curitiba,Brazil,3102000,842,3700,C / B,"Curitiba, Brazil",-25.4295696,-49.2712361
+144,139,San Diego,United States,3086000,1896,1600,A / A,"San Diego, United States",32.7174209,-117.1627713
+145,166,Yaoundé,Cameroon,3060000,231,13300,D / B,"Yaoundé, Cameroon",3.8689867,11.5213344
+146,187,Zhangjiagang–Jiangyin–Jingjiang,China,3056000,673,4500,C / B,"Zhangjiagang, China",31.8664895,120.5426833
+147,141,Kanpur,India,3037000,207,14700,A / B,"Kanpur, India",26.5,80.0
+148,192,Zhongshan,China,3031000,686,4400,C / B,"Zhongshan, China",22.5213807,113.3656141
+149,163,Sana'a,Yemen,2980000,223,13400,D / B,"Sana'a, Yemen",15.342101,44.2005197
+150,117,Tel Aviv,Israel,2979000,479,6200,C / B,"Tel Aviv, Israel",32.0804808,34.7805274
+151,155,Guiyang,China,2955000,324,9100,C / B,"Guiyang, China",26.5814112,106.7052544
+152,162,Douala,Cameroon,2940000,205,14400,D / B,"Douala, Cameroon",4.0537386,9.6644365792336
+153,146,Taichung,Taiwan,2935000,492,6000,C / B,"Taichung, Taiwan",24.163162,120.6478282
+154,165,Pretoria (Tshwane),South Africa,2927000,1230,2400,C / B,"Pretoria, South Africa",-25.7249999,28.1847222
+155,194,Santo Domingo,Dominican Republic,2925000,298,9800,D / B,"Santo Domingo, Dominican Republic",18.4801972,-69.9421109
+156,150,Hyderabad,Pakistan,2920000,73,40300,C / B,"Hyderabad, Pakistan",25.38009,68.3750053
+157,124,Caracas,Venezuela,2861000,295,9700,C / B,"Caracas, Venezuela",10.506098,-66.9146016
+158,140,Pyongyang,North Korea,2850000,176,16200,D / B,"Pyongyang, North Korea",39.07984925,125.801457340332
+159,154,Kalyan,India,2841000,93,30500,C / B,"Kalyan, India",19.2434721,73.1397969528524
+160,200,Asunción,Paraguay,2827000,648,4400,C / B,"Asunción, Paraguay",-25.2959915,-57.6311195
+161,157,Minneapolis–Saint Paul,United States,2771000,2647,1000,A / A,"Minneapolis, United States",44.9772995,-93.2654691
+162,171,Lanzhou,China,2703000,259,10400,C / B,"Lanzhou, China",36.282929,103.544543490754
+163,202,Ouagadougou,Burkina Faso,2700000,466,5800,D / B,"Ouagadougou, Burkina Faso",12.3681481,-1.5270852
+163,180,Guayaquil,Ecuador,2700000,220,12300,D / B,"Guayaquil, Ecuador",-2.181193,-79.8765572
+165,164,Nagpur,India,2668000,246,10800,A / B,"Nagpur, India",21.1500964,79.0127048991187
+166,158,Lisbon,Portugal,2666000,958,2800,C / B,"Lisbon, Portugal",38.7077926,-9.1365069
+167,215,Baku,Azerbaijan,2661000,1101,2400,C / B,"Baku, Azerbaijan",40.3754289,49.8328549
+168,213,Rotterdam–The Hague,Netherlands,2660000,984,2700,C / B,"Rotterdam, Netherlands",51.92779805,4.48862326925829
+169,168,Campinas,Brazil,2645000,932,2800,C / B,"Campinas, Brazil",-22.9055599,-47.0608299
+170,197,Manchester,United Kingdom,2639000,630,4200,A / A,"Manchester, United Kingdom",53.4791301,-2.2441008
+171,175,Nanchang,China,2637000,544,4800,C / B,"Nanchang, China",28.6971096,115.8976324
+172,170,Tampa–St. Petersburg,United States,2621000,2479,1100,A / A,"Tampa, United States",27.9477595,-82.4584439
+173,159,Maputo,Mozambique,2615000,414,6300,C / B,"Maputo, Mozambique",-25.9662132,32.5674498
+174,153,Kaohsiung,Taiwan,2599000,363,7200,C / B,"Kaohsiung, Taiwan",22.6203348,120.3120375
+175,145,Algiers,Algeria,2590000,453,5700,D / B,"Algiers, Algeria",28.0000272,2.9999825
+175,191,Nanning,China,2590000,306,8500,C / B,"Nanning, China",22.8325591,108.3027168
+177,160,Sapporo,Japan,2570000,622,4100,D / B,"Sapporo, Japan",43.044768,141.337215
+178,156,Damascus,Syria,2560000,181,14100,D / B,"Damascus, Syria",33.5130695,36.3095814
+179,173,Denver,United States,2559000,1730,1500,A / A,"Denver, United States",39.7391536,-104.9847033
+180,179,Brasília,Brazil,2536000,673,3800,C / B,"Brasília, Brazil",-10.3333332,-53.1999999
+181,176,Cebu City (Metro Cebu),Philippines,2535000,207,12200,C / B,"Cebu City, Philippines",10.3090298,123.8930839
+182,167,Fukuoka,Japan,2525000,531,4800,C / B,"Fukuoka, Japan",33.6251241,130.6180016
+183,190,Birmingham,United Kingdom,2512000,599,4200,A / A,"Birmingham, United Kingdom",52.4813679,-1.8980725
+184,135,Rawalpindi–Islamabad,Pakistan,2510000,427,5900,D / B,"Rawalpindi, Pakistan",33.5991484,73.0641002
+185,143,Kumasi,Ghana,2500000,337,7400,C / B,"Kumasi, Ghana",6.698081,-1.6230403
+185,203,Bamako,Mali,2500000,311,8000,D / B,"Bamako, Mali",12.6493194,-8.000337
+187,197,Coimbatore,India,2481000,285,8700,A / B,"Coimbatore, India",11.0018115,76.9628425
+188,161,Amman,Jordan,2468000,344,7200,C / B,"Amman, Jordan",31.9515694,35.9239625
+189,211,Linyi,China,2465000,907,2700,C / B,"Linyi, China",35.1040224,118.3507128
+190,185,Port-au-Prince,Haiti,2332000,171,14300,D / B,"Port-au-Prince, Haiti",18.547327,-72.3395927
+190,183,Abuja,Nigeria,2440000,225,10800,D / B,"Abuja, Nigeria",9.0643305,7.4892974
+192,182,Shantou,China,2419000,363,6700,C / B,"Shantou, China",23.34189025,116.567257609049
+193,193,Indore,India,2405000,272,8800,A / B,"Indore, India",22.7140354,75.8061182385911
+194,218,Antananarivo,Madagascar,2398000,220,10900,C / B,"Antananarivo, Madagascar",-18.9100121,47.5255809
+195,212,Kozhikode (Calicut),India,2394000,119,20100,A / B,"Kozhikode, India",11.2446144,75.7759372
+196,189,Isfahan,Iran,2392000,350,6800,C / B,"Isfahan, Iran",32.6707877,51.6650002
+197,201,Chaoyang–Chaonan,China,2391000,272,8800,C / B,"Chaoyang, China",41.5754767,120.4390738
+198,178,Daegu,South Korea,2382000,246,9700,C / B,"Daegu, South Korea",35.8404121,128.5586643
+199,221,Tangshan,China,2378000,277,8600,C / B,"Tangshan, China",39.633333,118.183333
+200,199,Kochi (Cochin),India,2374000,440,5400,A / B,"Kochi, India",9.9633864,76.2536614
+201,174,Cali,Colombia,2357000,189,12500,C / B,"Cali, Colombia",3.4319329,-76.5113047
+202,217,Shaoxing,China,2350000,479,4900,C / B,"Shaoxing, China",29.75153715,120.479479220609
+203,224,Port Harcourt,Nigeria,2340000,158,14800,D / B,"Port Harcourt, Nigeria",4.7676576,7.0188527
+204,206,Vancouver,Canada,2135201,1150.43,1856,A / A,"Vancouver, Canada",49.2608944,-123.1139382
+205,243,Huai'an,China,2282000,148,15500,C / B,"Huai'an, China",33.5897018,119.0211943
+206,195,Baltimore,United States,2263000,1857,1200,A / A,"Baltimore, United States",39.2908608,-76.6108072
+207,186,Tashkent,Uzbekistan,2250000,531,4200,D / B,"Tashkent, Uzbekistan",41.3123363,69.2787079
+208,152,Kiev,Ukraine,2241000,544,4100,D / B,"Kiev, Ukraine",50.4501071,30.5240501
+209,244,Thrissur,India,2236000,363,6200,A / B,"Thrissur, India",10.5260094,76.2155592
+210,225,Hohhot,China,2219000,401,5500,C / B,"Hohhot, China",40.8337963,111.6730788
+211,287,Harare,Zimbabwe,2203000,829,2700,C / B,"Harare, Zimbabwe",-17.8317725,31.0456859
+212,209,Patna,India,2200000,142,15400,A / B,"Patna, India",25.609575,85.1238191
+212,222,Beirut,Lebanon,2200000,673,3300,D / B,"Beirut, Lebanon",33.8959203,35.47843
+214,227,Las Vegas,United States,2191000,1080,2000,A / A,"Las Vegas, United States",36.1662859,-115.1492249
+215,172,Katowice–Gliwice–Tychy (Silesian Metropolis),Poland,2190000,673,3300,C / B,"Katowice, Poland",50.2598987,19.0215852
+215,245,Lusaka,Zambia,2190000,179,12300,D / B,"Lusaka, Zambia",-15.4166966,28.2813812
+217,208,St. Louis,United States,2186000,2393,900,A / A,"St. Louis, United States",38.6272733,-90.1978888
+218,205,Colombo,Sri Lanka,2180000,223,9800,C / B,"Colombo, Sri Lanka",6.934287,79.8532704
+219,220,Baotou,China,2159000,376,5700,C / B,"Baotou, China",40.660201,109.8303243
+220,207,San Juan,Puerto Rico,2139000,2246,1000,A / A,"San Juan, Puerto Rico",18.38423905,-66.0534398736473
+221,215,Havana,Cuba,2130000,285,7500,D / B,"Havana, Cuba",23.1379911,-82.3658561
+222,240,Gujranwala,Pakistan,2120000,148,14400,D / B,"Gujranwala, Pakistan",32.1525312,74.1933745
+222,284,Mogadishu,Somalia,2120000,91,23400,D / B,"Mogadishu, Somalia",2.0427779,45.3385636
+224,210,Goiânia,Brazil,2117000,699,3000,C / B,"Goiânia, Brazil",-16.6808819,-49.253269
+225,258,Santa Cruz de la Sierra,Bolivia,2110000,596,3500,C / B,"Santa Cruz de la Sierra, Bolivia",-17.7833731,-63.1821382
+226,268,Malappuram,India,2108000,324,6500,A / B,"Malappuram, India",11.040976,76.0798289
+227,219,Cologne–Bonn,Germany,2104000,932,2300,C / B,"Cologne, Germany",50.9383611,6.9599738
+228,228,Brussels,Belgium,2089000,803,2600,C / B,"Brussels, Belgium",50.8465565,4.351697
+229,181,Puebla,Mexico,2088000,440,4700,C / B,"Puebla, Mexico",18.833333,-97.9999999
+230,252,Hamburg,Germany,2087000,777,2700,C / B,"Hamburg, Germany",53.5437641,10.0099133
+231,226,Bhopal,India,2075000,181,11400,A / B,"Bhopal, India",23.2530923,77.3962718
+232,281,Kannur,India,2047000,91,22600,A / B,"Kannur, India",11.8762254,75.3738043
+233,230,Orlando,United States,2040000,1958,1000,N / N,"Orlando, United States",28.5421175,-81.3790461
+234,184,Maracaibo,Venezuela,2037000,407,5000,C / B,"Maracaibo, Venezuela",10.6651557,-71.6230752
+235,263,Handan,China,2000000,168,11900,C / B,"Handan, China",36.583333,114.483333
+235,269,Lubumbashi,Democratic Republic of the Congo,2000000,155,12900,D / B,"Lubumbashi, Democratic Republic of the Congo",-11.6642315,27.4826264
+235,324,Mbuji-Mayi,Democratic Republic of the Congo,2000000,122,16400,D / B,"Mbuji-Mayi, Democratic Republic of the Congo",-6.1258941,23.5998111
+238,234,Brisbane,Australia,1999000,1972,1000,A / A,"Brisbane, Australia",-27.4689681,153.0234991
+239,177,Tunis,Tunisia,1990000,363,5500,D / B,"Tunis, Tunisia",33.8439408,9.400138
+240,291,Haikou,China,1981000,311,6400,C / B,"Haikou, China",20.0423626,110.3409936
+240,335,Munich,Germany,1981000,466,4200,C / B,"Munich, Germany",48.1371079,11.5753822
+242,223,Kitaky?sh?,Japan,1980000,492,4000,C / B,"Kitaky?sh?, Japan",33.881691,130.866
+243,214,Belém,Brazil,1979000,259,7600,C / B,"Belém, Brazil",-1.4505599,-48.4682452
+244,232,Portland,United States,1976000,1357,1500,A / A,"Portland, United States",45.5202471,-122.6741948
+244,241,San Antonio,United States,1976000,1546,1300,A / A,"San Antonio, United States",29.4246002,-98.4951404
+246,248,Tijuana,Mexico,1968000,466,4200,D / B,"Tijuana, Mexico",32.5288195,-117.0368345
+247,235,Vadodara,India,1963000,137,14300,A / B,"Vadodara, India",22.3177543,73.362540944666
+248,239,Lomé,Togo,1941000,207,9400,F / B,"Lomé, Togo",6.1258459,1.2249327
+249,257,Luoyang,China,1939000,220,8800,C / B,"Luoyang, China",34.6556873,112.4209629
+250,249,Agra,India,1938000,130,15000,A / B,"Agra, India",27.02317485,78.0925527
+251,247,Conakry,Guinea,1930000,161,12000,D / B,"Conakry, Guinea",9.5171253,-13.6999234
+251,250,Kampala,Uganda,1930000,492,3900,D / B,"Kampala, Uganda",0.3177137,32.5813539
+253,256,Thiruvananthapuram,India,1921000,142,13500,A / B,"Thiruvananthapuram, India",8.5057492,76.9573562
+254,188,Frankfurt,Germany,1915000,648,3000,C / B,"Frankfurt, Germany",50.1106529,8.6820934
+255,241,Minsk,Belarus,1910000,324,5900,D / B,"Minsk, Belarus",53.902334,27.5618791
+255,251,Visakhapatnam,India,1910000,181,10500,A / B,"Visakhapatnam, India",17.7231276,83.3012842
+257,254,La Paz,Bolivia,1907000,272,7000,C / B,"La Paz, Bolivia",-16.4956469,-68.1335419
+258,238,Multan,Pakistan,1900000,207,9200,D / B,"Multan, Pakistan",30.197721,71.4736279
+259,232,Manaus,Brazil,1893000,324,5800,C / B,"Manaus, Brazil",-3.1328618,-59.986529
+259,304,Sargodha,Pakistan,1893000,488,3900,A / A,"Sargodha, Pakistan",32.0898006,72.6782574
+261,253,Sacramento,United States,1885000,1220,1500,A / A,"Sacramento, United States",38.5815719,-121.4943995
+262,259,Toluca,Mexico,1878000,272,6900,D / B,"Toluca, Mexico",19.292545,-99.6569006
+263,267,Shiraz,Iran,1873000,246,7600,C / B,"Shiraz, Iran",29.6096054,52.5431763
+264,230,Bucharest,Romania,1860000,285,6500,D / B,"Bucharest, Romania",44.4361414,26.1027443
+265,272,Brazzaville,Republic of the Congo,1850000,181,10200,D / B,"Brazzaville, Republic of the Congo",-4.2694406,15.2712256
+266,237,Rabat,Morocco,1845000,184,10000,C / B,"Rabat, Morocco",34.0226709,-6.8391104
+267,262,Bursa,Turkey,1839000,207,8900,C / B,"Bursa, Turkey",40.1827061,29.0667635
+268,356,Yogyakarta,Indonesia,1831000,233,7900,C / B,"Yogyakarta, Indonesia",-7.8697612,110.4021745
+269,316,Adana,Turkey,1830000,161,11400,D / B,"Adana, Turkey",37.0033484,35.3263252
+270,294,Kunshan,China,1815000,557,3300,C / B,"Kunshan, China",31.386108,120.94823
+271,255,Cleveland,United States,1783000,1999,900,A / A,"Cleveland, United States",41.5051613,-81.6934445
+272,261,Vienna,Austria,1763000,453,3900,C / B,"Vienna, Austria",48.2083537,16.3725042
+272,332,Huizhou,China,1763000,207,8500,C / B,"Huizhou, China",23.1060862,114.4141105
+274,278,Perth,Australia,1751000,1566,1100,A / A,"Perth, Australia",-31.952712,115.8604796
+275,285,Nashik,India,1749000,111,15700,A / B,"Nashik, India",20.2217236,74.1136047894734
+276,229,Barranquilla,Colombia,1748000,179,9800,C / B,"Barranquilla, Colombia",10.979932,-74.7957383
+277,290,Peshawar,Pakistan,1730000,117,14800,D / B,"Peshawar, Pakistan",34.0123846,71.5787458
+277,260,Pittsburgh,United States,1730000,2344,700,A / A,"Pittsburgh, United States",40.4416941,-79.990086
+279,271,Phnom Penh,Cambodia,1729000,220,7900,D / B,"Phnom Penh, Cambodia",11.5742555,104.82899544331
+280,274,Quito,Ecuador,1720000,479,3600,D / B,"Quito, Ecuador",-0.155388,-78.4862308
+280,266,Warsaw,Poland,1720000,544,3200,D / B,"Warsaw, Poland",52.2319237,21.0067265
+282,301,Vijayawada,India,1715000,57,30100,A / B,"Vijayawada, India",16.5087586,80.6185102
+283,272,Ludhiana,India,1714000,168,10200,A / B,"Ludhiana, India",30.79197145,75.89292025672
+284,264,Budapest,Hungary,1710000,894,1900,D / B,"Budapest, Hungary",47.4983815,19.0404707
+285,288,Datong,China,1709000,181,9400,C / B,"Datong, China",40.0899001,113.2884836
+286,-,Yiwu—Dongyang,China,1704000,233,7300,C / B,"Yiwu, China",29.3055676,120.0710836
+287,277,Montevideo,Uruguay,1700000,259,6600,D / B,"Montevideo, Uruguay",-34.9059038,-56.1913568
+288,279,Tabriz,Iran,1693000,168,10100,C / B,"Tabriz, Iran",38.0773948,46.2891614
+289,283,Johor Bahru,Malaysia,1688000,712,2400,C / B,"Johor Bahru, Malaysia",1.4953041,103.7550839
+290,286,Cincinnati,United States,1682000,2041,800,A / A,"Cincinnati, United States",39.1014537,-84.5124601
+291,298,Mosul,Iraq,1675000,140,12000,D / B,"Mosul, Iraq",36.34585235,43.098576921383
+292,265,Santos,Brazil,1653000,298,5500,C / B,"Santos, Brazil",-23.9608329,-46.3338889
+293,298,Mecca,Saudi Arabia,1647000,389,4200,C / B,"Mecca, Saudi Arabia",21.4227956,39.8211631
+294,293,Zibo,China,1646000,350,4700,C / B,"Zibo, China",36.8047833,118.0444472
+295,-,Homs,Syria,1640000,83,19800,D / B,"Homs, Syria",34.7333334,36.7166667
+296,282,Jilin,China,1633000,194,8400,C / B,"Jilin, China",42.9995032,125.9816054
+297,246,Semarang,Indonesia,1630000,272,6000,D / B,"Semarang, Indonesia",-6.9904037,110.4229455
+297,312,Davao City,Philippines,1630000,130,12600,D / B,"Davao City, Philippines",7.22650725,125.454887691355
+299,432,Amsterdam,Netherlands,1624000,505,3200,C / B,"Amsterdam, Netherlands",52.374436,4.8979956033677
+300,307,Indianapolis,United States,1617000,1829,900,A / A,"Indianapolis, United States",39.7683331,-86.1583501
+301,314,Austin,United States,1616000,1355,1200,A / A,"Austin, United States",30.2711286,-97.7436994
+302,270,Yinchuan,China,1614000,342,4700,C / B,"Yinchuan, China",38.4829194,106.2116014
+303,315,Gwangju,South Korea,1601000,127,12600,D / B,"Gwangju, South Korea",35.1491083,126.8634645
+304,325,Weifang,China,1595000,246,6500,C / B,"Weifang, China",36.7084113,119.1044787
+305,302,Kansas City,United States,1593000,1756,900,A / A,"Kansas City, United States",39.0844687,-94.5630297
+306,300,Córdoba,Argentina,1585000,363,4400,C / B,"Córdoba, Argentina",-31.417339,-64.1833189
+306,-,Taizhou (Zhejiang),China,1585000,233,6800,C / B,"Taizhou, China",32.4849554,119.9117284
+308,302,Lyon,France,1583000,1178,1300,C / B,"Lyon, France",45.7578137,4.8320114
+309,308,Madurai,India,1582000,75,21100,A / B,"Madurai, India",9.833333,77.833333
+310,-,General Santos,Philippines,1579000,75,21000,C / B,"General Santos, Philippines",6.1139525,125.1717038
+311,319,Liuzhou,China,1574000,207,7600,C / B,"Liuzhou, China",24.3213044,109.4066186
+312,320,Rajkot,India,1568000,75,20900,A / B,"Rajkot, India",22.3409469,70.7860061733424
+313,-,Doha,Qatar,1564000,583,2700,C / B,"Doha, Qatar",25.3014957,51.4996673988223
+313,309,Daejeon,South Korea,1564000,132,11800,C / B,"Daejeon, South Korea",36.3326329,127.3845762
+315,295,Yangzhou,China,1561000,233,6700,C / B,"Yangzhou, China",32.3926973,119.4365759
+315,-,Valencia,Spain,1561000,272,5700,C / B,"Valencia, Spain",39.6819591,-0.7654405
+317,349,Zhuhai—Macau,China,1547000,272,5700,C / B,"Zhuhai, China",21.97691025,113.930765472506
+318,313,Meerut,India,1541000,104,14900,A / B,"Meerut, India",28.916667,77.683333
+319,311,Varanasi,India,1536000,101,15200,A / B,"Varanasi, India",25.38029175,82.938821088128
+320,344,Charlotte,United States,1535000,1919,800,A / A,"Charlotte, United States",35.2270869,-80.8431267
+321,310,Turin,Italy,1521000,376,4100,C / B,"Turin, Italy",45.0709201,7.685972
+322,333,Yantai,China,1520000,262,5800,C / B,"Yantai, China",37.5340488,121.389463
+323,297,Anshan–Liaoyang,China,1516000,363,4200,C / B,"Anshan, China",40.78195365,122.789233036441
+324,326,Almaty,Kazakhstan,1500000,420,3600,D / B,"Almaty, Kazakhstan",43.21984255,76.9183518874968
+325,204,Panama City,Panama,1498000,220,6800,C / B,"Panama City, Panama",8.9710438,-79.5340598
+326,370,Cixi,China,1490000,414,3600,C / B,"Cixi, China",30.183333,121.233333
+326,322,Benin City,Nigeria,1490000,228,6500,D / B,"Benin City, Nigeria",6.3330586,5.6221058
+328,317,Novosibirsk,Russia,1486000,622,2400,C / B,"Novosibirsk, Russia",55.0282215,82.9234476
+329,291,Makassar,Indonesia,1484000,179,8300,C / B,"Makassar, Indonesia",-5.1342961,119.4124282
+329,323,Stockholm,Sweden,1484000,382,3900,A / A,"Stockholm, Sweden",59.3251172,18.0710935
+331,328,Columbus,United States,1481000,1321,1100,A / A,"Columbus, United States",39.9622601,-83.0007064
+332,236,Valencia,Venezuela,1477000,363,4100,C / B,"Valencia, Venezuela",10.1704877,-68.0011213
+333,329,Porto,Portugal,1474000,777,1900,C / B,"Porto, Portugal",41.1494512,-8.6107883
+334,276,León,Mexico,1469000,233,6300,C / B,"León, Mexico",21.0973352,-101.647642206618
+335,389,Putian,China,1468000,453,3200,C / B,"Putian, China",25.4342199,119.0074625
+336,318,Virginia Beach-Norfolk,United States,1463000,1334,1100,A / A,"Virginia Beach-Norfolk, United States",36.8103829,-76.2825626
+337,366,Wuhu,China,1456000,161,9100,C / B,"Wuhu, China",31.3427629,118.3536038
+338,330,Jamshedpur,India,1443000,109,13300,A / B,"Jamshedpur, India",22.8015194,86.2029579
+339,321,Kharkiv,Ukraine,1440000,466,3100,D / B,"Kharkiv, Ukraine",49.9902794,36.2303893
+340,306,Palembang,Indonesia,1434000,220,6500,C / B,"Palembang, Indonesia",-2.9888296,104.756857
+341,370,Zhangzhou,China,1410000,350,4000,C / B,"Zhangzhou, China",24.5174597,117.6586363
+342,339,Srinagar,India,1409000,127,11100,A / B,"Srinagar, India",34.0747444,74.8204443
+343,331,Milwaukee,United States,1408000,1414,1000,A / A,"Milwaukee, United States",43.0349931,-87.9224969
+344,375,Anyang,China,1401000,181,7700,C / B,"Anyang, China",36.1023552,114.33633
+345,-,Jiangmen,China,1399000,350,4000,C / B,"Jiangmen, China",22.5766294,113.079047
+346,296,Marseille,France,1397000,453,3100,C / B,"Marseille, France",43.2961743,5.3699525
+347,368,Gaziantep,Turkey,1394000,114,12200,C / B,"Gaziantep, Turkey",37.0611756,37.3793085
+348,334,Ciudad Juárez,Mexico,1391000,324,4300,D / B,"Ciudad Juárez, Mexico",31.7377426,-106.4835191
+349,349,Stuttgart,Germany,1379000,479,2900,C / B,"Stuttgart, Germany",48.7784485,9.1800132
+350,340,Hiroshima,Japan,1377000,285,4800,C / B,"Hiroshima, Japan",34.458065,132.451577
+351,337,Yekaterinburg,Russia,1361000,518,2600,C / B,"Yekaterinburg, Russia",56.8391034,60.6082502
+352,344,Auckland,New Zealand,1356000,544,2500,C / B,"Auckland, New Zealand",-36.8534664,174.7655514
+353,407,Kollam,India,1351000,181,7500,A / B,"Kollam, India",8.8787461,76.765350775326
+354,370,Xining,China,1345000,189,7100,C / B,"Xining, China",36.6219037,101.7729898
+355,397,Changshu,China,1344000,321,4200,C / B,"Changshu, China",31.6434085,120.7408552
+356,-,Manama,Bahrain,1340000,389,3400,C / B,"Manama, Bahrain",26.2235041,50.5822436
+357,340,Jabalpur,India,1339000,91,14800,A / B,"Jabalpur, India",23.3288622,80.1072871013991
+358,348,Rosario,Argentina,1338000,233,5700,C / B,"Rosario, Argentina",-32.9595003,-60.6615414
+359,389,Penang,Malaysia,1336000,298,4500,C / B,"Penang, Malaysia",5.4065013,100.2559077
+360,381,Raipur,India,1329000,111,11900,A / B,"Raipur, India",20.82071695,82.1229768974802
+361,354,Torreón,Mexico,1327000,168,7900,D / B,"Torreón, Mexico",25.5414662,-103.4531976
+362,327,Fushun,China,1324000,130,10200,C / B,"Fushun, China",41.8866162,123.9479581
+362,360,Aurangabad,India,1324000,73,18300,A / B,"Aurangabad, India",20.0328377,75.158951321935
+364,-,Surakarta,Indonesia,1318000,207,6400,C / B,"Surakarta, Indonesia",-7.5692461,110.828448
+365,346,Asansol,India,1315000,65,20300,A / B,"Asansol, India",23.6855595,86.9756619
+365,361,Ahvaz,Iran,1315000,233,5600,C / B,"Ahvaz, Iran",31.3276978,48.6756129
+367,353,Prague,Czech Republic,1310000,285,4600,D / B,"Prague, Czech Republic",50.0874654,14.4212503
+368,359,Xuzhou,China,1301000,233,5600,C / B,"Xuzhou, China",34.2051066,117.278248
+369,343,Baoding,China,1297000,220,5900,C / B,"Baoding, China",39.09109015,115.334623872558
+370,351,Allahabad,India,1294000,124,10400,A / B,"Allahabad, India",25.2859603,81.896732069544
+371,363,Guatemala City,Guatemala,1289000,298,4300,C / B,"Guatemala City, Guatemala",14.6417889,-90.5132238
+372,338,Sendai,Japan,1277000,324,3900,C / B,"Sendai, Japan",38.296829,140.769677
+373,346,Yerevan,Armenia,1274000,324,3900,F / B,"Yerevan, Armenia",40.1776121,44.5125849
+374,376,Jodhpur,India,1266000,83,15300,A / B,"Jodhpur, India",26.2988908,73.0333642
+375,362,Amritsar,India,1264000,98,12800,A / B,"Amritsar, India",31.5681791,74.9812719062748
+376,382,Huambo,Angola,1260000,130,9700,D / B,"Huambo, Angola",-12.7765391,15.7320468
+376,438,N'Djamena,Chad,1260000,166,7600,D / B,"N'Djamena, Chad",12.1191543,15.0502758
+378,357,Dhanbad,India,1258000,96,13100,A / B,"Dhanbad, India",23.8437824,86.5845469328641
+379,-,Wenling,China,1250000,117,10700,C / B,"Wenling, China",28.3675,121.373611
+380,393,Querétaro,Mexico,1249000,150,8300,C / B,"Querétaro, Mexico",20.8542575,-99.8475599
+381,365,Copenhagen,Denmark,1248000,453,2800,A / A,"Copenhagen, Denmark",55.6867243,12.5700724
+382,379,Ranchi,India,1246000,57,21900,A / B,"Ranchi, India",23.14064535,85.3732723225793
+383,367,Qiqihar,China,1241000,130,9600,C / B,"Qiqihar, China",47.338544,123.9511506
+384,-,Cochabamba,Bolivia,1238000,254,4900,C / B,"Cochabamba, Bolivia",-17.3935418,-66.1570138
+385,415,Ulan Bator,Mongolia,1237000,233,5300,C / B,"Ulan Bator, Mongolia",47.9184676,106.9177016
+386,384,Durg-Bhilai,India,1235000,114,10800,A / B,"Durg-Bhilai, India",21.19174485,81.3026551058429
+387,383,Medina,Saudi Arabia,1233000,350,3500,C / B,"Medina, Saudi Arabia",24.4671579,39.6108278
+388,418,Chifeng,China,1230000,85,14400,E / B,"Chifeng, China",42.2799929,118.9426131
+388,-,Hama,Syria,1230000,52,23700,D / B,"Hama, Syria",35.1333342,36.7499971
+390,369,Glasgow,United Kingdom,1220000,368,3300,D / A,"Glasgow, United Kingdom",55.856656,-4.2435816
+391,355,Tainan,Taiwan,1216000,207,5900,C / B,"Tainan, Taiwan",22.9912479,120.1848844
+392,451,Port Elizabeth,South Africa,1212000,389,3100,C / B,"Port Elizabeth, South Africa",-33.9434594,25.5327401
+393,-,Weihai,China,1208000,109,11100,C / B,"Weihai, China",37.5122216,122.1152445
+393,387,Helsinki,Finland,1208000,641,1900,A / A,"Helsinki, Finland",60.1666277,24.9435079
+393,388,Gwalior,India,1208000,57,21200,A / B,"Gwalior, India",26.2,78.2
+396,428,Dongying,China,1206000,220,5500,C / B,"Dongying, China",37.4320418,118.6543828
+397,358,Nizhny Novgorod,Russia,1201000,622,1900,C / B,"Nizhny Novgorod, Russia",56.3278821,44.0072897
+397,377,Providence,United States,1201000,1412,900,A / A,"Providence, United States",41.8239891,-71.4128342
+399,378,Sofia,Bulgaria,1195000,207,5800,D / B,"Sofia, Bulgaria",42.6977211,23.3225964
+400,405,Fes,Morocco,1193000,83,14400,C / B,"Fes, Morocco",34.0341156,-5.0133481
+401,436,Jiaxing,China,1192000,181,6600,C / B,"Jiaxing, China",30.7482172,120.7512059
+402,424,Konya,Turkey,1190000,130,9200,D / B,"Konya, Turkey",37.8719963,32.4844015
+403,404,Calgary,Canada,1095404,704,1556,A / A,"Calgary, Canada",51.0530588,-114.0625613
+404,451,Hamamatsu,Japan,1187000,259,4600,C / B,"Hamamatsu, Japan",34.952749,137.805625
+405,440,Nantong,China,1184000,264,4500,C / B,"Nantong, China",31.9822235,120.8914202
+406,413,Xiangyang,China,1183000,135,8800,C / B,"Xiangyang, China",32.0553487,112.1294081
+407,409,Kathmandu,Nepal,1180000,60,19600,D / B,"Kathmandu, Nepal",27.7087963,85.3202438
+407,411,Belgrade,Serbia,1180000,233,5100,D / B,"Belgrade, Serbia",44.8178787,20.4568089
+409,392,Vasai-Virar,India,1179000,91,13000,A / B,"Vasai-Virar, India",19.4258788,72.8224901
+410,-,Tiruppur,India,1177000,104,11400,A / B,"Tiruppur, India",11.097142,77.3492054
+411,-,Denpasar,Indonesia,1175000,179,6600,C / B,"Denpasar, Indonesia",-8.6524972,115.2191175
+412,-,Marrakesh,Morocco,1173000,80,14600,C / B,"Marrakesh, Morocco",31.6259901,-7.9886082
+413,275,Vitória,Brazil,1172000,337,3500,C / B,"Vitória, Brazil",-20.2996825,-40.3016326
+414,342,São Luís,Brazil,1171000,427,2700,C / B,"São Luís, Brazil",-2.5319223,-44.2933275
+415,304,San José,Costa Rica,1170000,337,3500,D / B,"San José, Costa Rica",9.9360107,-84.0919724335087
+416,385,Samara,Russia,1162000,376,3100,D / B,"Samara, Russia",53.1986275,50.113988
+417,394,Dublin,Ireland,1160000,453,2600,D / B,"Dublin, Ireland",53.3497645,-6.2602731
+417,408,Mandalay,Myanmar,1160000,85,13600,D / B,"Mandalay, Myanmar",21.526524,95.8322992038
+417,396,Kazan,Russia,1160000,492,2400,D / B,"Kazan, Russia",55.76041925,49.1902944737668
+420,395,Zhangjiakou,China,1156000,130,8900,C / B,"Zhangjiakou, China",40.87790675,115.198812652717
+421,391,Omsk,Russia,1154000,492,2300,C / B,"Omsk, Russia",54.9913752,73.3714883
+421,411,Jacksonville,United States,1154000,1373,800,A / A,"Jacksonville, United States",30.3321838,-81.6556509
+423,-,Kananga,Democratic Republic of the Congo,1150000,54,21100,D / B,"Kananga, Democratic Republic of the Congo",-5.8951724,22.408589
+423,421,Erbil,Iraq,1150000,75,15300,D / B,"Erbil, Iraq",36.5349312,44.2534471
+423,400,Chelyabinsk,Russia,1150000,583,2000,D / B,"Chelyabinsk, Russia",55.1598408,61.4025547
+426,-,Cirebon,Indonesia,1143000,106,10800,C / B,"Cirebon, Indonesia",-6.7137043,108.5608483
+427,406,Huainan,China,1142000,109,10500,C / B,"Huainan, China",32.6604304,117.0250917
+427,-,Batam,Indonesia,1142000,207,5500,C / B,"Batam, Indonesia",1.1068747,104.0285189
+429,403,Adelaide,Australia,1140000,852,1300,A / A,"Adelaide, Australia",-34.9274283,138.599899
+430,435,Kota,India,1138000,62,18300,A / B,"Kota, India",25.20456325,76.0131389201042
+431,438,San Luis Potosí,Mexico,1137000,132,8600,D / B,"San Luis Potosí, Mexico",22.5000001,-100.5
+432,399,Maracay,Venezuela,1135000,220,5200,C / B,"Maracay, Venezuela",10.2513662,-67.6017244
+433,-,Rui'an,China,1134000,132,8600,C / B,"Rui'an, China",27.778019,120.6251941
+434,-,Lianyungang,China,1128000,155,7300,C / B,"Lianyungang, China",34.6092633,119.1695305
+435,402,Tbilisi,Georgia,1125000,194,5800,D / B,"Tbilisi, Georgia",41.6935247,44.8015019
+436,422,Chandigarh,India,1124000,259,4300,A / B,"Chandigarh, India",30.7351539,76.7705033208026
+437,429,Kigali,Rwanda,1121000,114,9800,C / B,"Kigali, Rwanda",-1.950851,30.0615075
+438,400,Tegucigalpa,Honduras,1120000,98,11400,D / B,"Tegucigalpa, Honduras",14.0931919,-87.201263
+439,440,Huaibei,China,1116000,91,12300,C / B,"Huaibei, China",33.9575437,116.7928328
+439,429,Mombasa,Kenya,1116000,85,13100,D / B,"Mombasa, Kenya",-4.0390145,39.648390961857
+441,-,Malang,Indonesia,1114000,246,4500,D / B,"Malang, Indonesia",-7.9771205,112.6340291
+442,429,Mérida,Mexico,1111000,207,5400,D / B,"Mérida, Mexico",20.9671405,-89.6236999
+443,386,Tripoli,Libya,1110000,194,5700,D / B,"Tripoli, Libya",32.896672,13.1777923
+444,-,Seville,Spain,1107000,272,4100,C / B,"Seville, Spain",37.3886303,-5.995317
+445,420,Memphis,United States,1102000,1287,900,A / A,"Memphis, United States",35.1490215,-90.0516284
+446,-,Tengzhou,China,1101000,114,9700,C / B,"Tengzhou, China",35.1138881,117.159909
+446,442,Qom,Iran,1101000,117,9400,C / B,"Qom, Iran",34.7191915,51.0122844
+449,280,San Salvador,El Salvador,1100000,155,7100,D / B,"San Salvador, El Salvador",13.6977587,-89.1930099
+449,-,Pekanbaru,Indonesia,1100000,67,16300,D / B,"Pekanbaru, Indonesia",0.5373412,101.446032
+449,451,Monrovia,Liberia,1100000,194,5700,D / B,"Monrovia, Liberia",6.3280343,-10.7977881
+449,-,Onitsha,Nigeria,1100000,148,7500,D / B,"Onitsha, Nigeria",6.1448421,6.797495
+449,-,Quetta,Pakistan,1100000,124,8800,D / B,"Quetta, Pakistan",30.1898249,67.019108
+454,444,Bareilly,India,1094000,83,13200,A / B,"Bareilly, India",28.45843965,79.3784627731263
+455,423,Bahawalpur,Pakistan,1090000,228,4800,D / B,"Bahawalpur, Pakistan",29.394644,71.6638747
+455,373,Niamey,Niger,1090000,130,8400,C / B,"Niamey, Niger",13.4998139,2.10948597212168
+455,416,Rostov-on-Don,Russia,1090000,414,2600,D / B,"Rostov-on-Don, Russia",47.2248606,39.7022857
+458,419,Jiamusi,China,1089000,80,13600,C / B,"Jiamusi, China",46.8087794,130.3734556
+459,-,Raleigh,United States,1085000,1342,800,A / A,"Raleigh, United States",35.7804015,-78.6390778
+459,425,Salt Lake City,United States,1089000,720,1500,A / A,"Salt Lake City, United States",40.7670126,-111.8904307
+461,447,Nashville,United States,1081000,1458,700,A / A,"Nashville, United States",36.1622296,-86.774353
+462,441,Hubballi,India,1080000,202,5300,A / B,"Hubballi, India",15.3518378,75.1379848
+463,443,Mysore,India,1078000,91,11900,A / B,"Mysore, India",12.3051828,76.6553609
+464,434,Sialkot,Pakistan,1074000,104,10400,C / B,"Sialkot, Pakistan",32.4935378,74.5411575
+465,-,Antalya,Turkey,1070000,181,5900,D / B,"Antalya, Turkey",36.9008783,30.6937117
+466,336,Natal,Brazil,1064000,246,4300,C / B,"Natal, Brazil",-5.8053979,-35.2080904
+467,374,João Pessoa,Brazil,1052000,194,5400,C / B,"João Pessoa, Brazil",-7.121598,-34.8820279
+466,-,Fuzhou (Jiangxi),China,1052000,67,15600,C / B,"Fuzhou, China",26.0771539,119.2914774
+468,-,Puning,China,1043000,179,5800,C / B,"Puning, China",23.2699345,116.1958037
+469,-,Zhanjiang,China,1042000,83,12600,C / B,"Zhanjiang, China",21.2021916,110.4045975
+470,-,Qinhuangdao,China,1041000,155,6700,C / B,"Qinhuangdao, China",39.9644626,119.5865229
+470,-,Zhucheng,China,1041000,145,7200,C / B,"Zhucheng, China",30.8497265,114.7988108
+473,-,Yichang,China,1039000,65,16000,C / B,"Yichang, China",30.771111,111.321667
+473,447,Guwahati,India,1039000,70,14900,A / B,"Guwahati, India",26.1805978,91.753943
+475,410,Naypyidaw,Myanmar,1030000,233,4400,D / H,"Naypyidaw, Myanmar",19.7540045,96.1344976
+476,398,Bucaramanga,Colombia,1029000,60,17300,C / B,"Bucaramanga, Colombia",7.16666325,-73.104476570627
+477,436,Zaria,Nigeria,1025000,88,11600,F / B,"Zaria, Nigeria",11.113236,7.725176
+477,-,Louisville,United States,1025000,1235,800,A / A,"Louisville, United States",38.2542376,-85.7594069
+479,446,Ufa,Russia,1024000,168,6100,C / B,"Ufa, Russia",54.7262869,55.9477285
+480,-,Huzhou,China,1021000,111,9200,C / B,"Huzhou, China",30.865081,120.0182863
+481,-,Aligarh,India,1020000,41,24600,A / B,"Aligarh, India",27.88107785,78.0622745111917
+481,-,Aguascalientes,Mexico,1020000,106,9600,D / B,"Aguascalientes, Mexico",22.0000001,-102.5
+481,289,Kaduna,Nigeria,1020000,153,6700,D / B,"Kaduna, Nigeria",10.3825318,7.8533226
+484,-,Dammam,Saudi Arabia,1019000,971,1000,C / B,"Dammam, Saudi Arabia",26.4367824,50.1039991
+485,432,Lille,France,1018000,280,3600,C / B,"Lille, France",50.6305089,3.0706414
+485,-,Mexicali,Mexico,1018000,202,5000,D / B,"Mexicali, Mexico",32.6286813,-115.4559143
+485,-,Richmond,United States,1018000,1274,800,A / A,"Richmond, United States",37.5385087,-77.4342799
+488,449,Odessa,Ukraine,1010000,207,4900,D / B,"Odessa, Ukraine",46.4846121,30.7325586
+489,-,Antwerp,Belgium,1008000,635,1600,C / B,"Antwerp, Belgium",51.2211097,4.3997081
+490,-,Xiangtan,China,1007000,130,7800,C / B,"Xiangtan, China",27.8595302,112.8995403
+490,-,Zhuzhou,China,1007000,155,6500,C / B,"Zhuzhou, China",27.8535859,113.1331533
+490,-,Naha,Japan,1007000,285,3500,C / B,"Naha, Japan",26.213854,127.692221
+493,-,Moradabad,India,1004000,52,19400,A / B,"Moradabad, India",28.8170328,78.7777028569385
+494,379,Khulna,Bangladesh,1000000,70,14300,C / B,"Khulna, Bangladesh",22.8216956,89.5529444
+494,-,Kisangani,Democratic Republic of the Congo,1000000,57,17600,D / B,"Kisangani, Democratic Republic of the Congo",0.5184021,25.2057292
+494,-,Basra,Iraq,1000000,158,6300,D / B,"Basra, Iraq",30.4952367,47.8090981
+494,-,Sulaymaniyah,Iraq,1000000,62,16100,D / B,"Sulaymaniyah, Iraq",35.5570501,45.4425963
+494,-,Freetown,Sierra Leone,1000000,91,11000,D / B,"Freetown, Sierra Leone",8.4790017,-13.2680157
